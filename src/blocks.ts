@@ -21,7 +21,7 @@ export default (editor: Editor, opts: RequiredPluginOptions) => {
       editable: false,
       droppable: true,
       style: {
-        display: 'inline-block',
+        display: 'block',
         padding: '5px',
         'min-height': '50px',
         'min-width': '50px'

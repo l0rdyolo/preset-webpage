@@ -26,5 +26,8 @@
   "devDependencies": {
     "grapesjs": "^0.21.2",
     "grapesjs-cli": "^4.1.1"
+  },
+  "dependencies": {
+    "grapesjs-preset-webpage": "^1.0.3"
   }
 }
